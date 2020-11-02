@@ -1,0 +1,32 @@
+{
+  "name": "snowpack-proxy-import-loader",
+  "version": "0.0.0",
+  "description": "Trim .proxy.js of import",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangfengming/snowpack-proxy-import-loader.git"
+  },
+  "keywords": [
+    "snowpack",
+    "webpack"
+  ],
+  "author": "Jiang Fengming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiangfengming/snowpack-proxy-import-loader/issues"
+  },
+  "homepage": "https://github.com/jiangfengming/snowpack-proxy-import-loader#readme",
+  "dependencies": {
+    "acorn": "^8.0.4",
+    "acorn-walk": "^8.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-enough": "^0.6.0",
+    "eslint-plugin-ext": "^0.1.0"
+  }
+}
