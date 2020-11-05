@@ -29,5 +29,5 @@ module.exports = {
 };
 ```
 
-LICENSE
+## LICENSE
 [MIT](LICENSE)
