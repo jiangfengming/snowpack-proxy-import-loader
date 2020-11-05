@@ -1,6 +1,6 @@
 {
   "name": "snowpack-proxy-import-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Trim .proxy.js of import",
   "main": "index.js",
   "scripts": {
