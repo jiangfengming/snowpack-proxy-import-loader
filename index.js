@@ -25,5 +25,5 @@ module.exports = source => {
     }
   });
 
-  return source
+  return source;
 };
